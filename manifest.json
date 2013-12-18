@@ -1,0 +1,15 @@
+{
+  "name": "for heimusu",
+  "description": "for heimusu",
+  "author": "jigsaw<m@jgs.me>",
+  "homepage_url": "http://jgs.me",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "permissions": [
+    "background",
+    "http://feeds.feedburner.com/"
+  ],
+  "background": {
+    "scripts": ["javascripts/jquery.js", "javascripts/background.js"]
+  }
+}
