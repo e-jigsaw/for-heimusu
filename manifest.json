@@ -10,6 +10,6 @@
     "http://feeds.feedburner.com/"
   ],
   "background": {
-    "scripts": ["javascripts/jquery.js", "javascripts/background.js"]
+    "scripts": ["javascripts/jquery.js", "javascripts/eventPage.js"]
   }
 }

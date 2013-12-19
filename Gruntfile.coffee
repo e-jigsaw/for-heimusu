@@ -4,7 +4,7 @@ module.exports = (grunt)->
     coffee:
       src:
         files:
-          "build/javascripts/background.js": "src/background.coffee"
+          "build/javascripts/eventPage.js": "src/eventPage.coffee"
         options:
           bare: true
     copy:
